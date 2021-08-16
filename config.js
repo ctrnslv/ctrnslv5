@@ -217,7 +217,7 @@ var config = {
                                                           hidden: false,
                                                           title: 'Grumento Nova - Località Campestrini',
                                                           image: 'https://inchiestasentinelle.webnode.it/_files/200000074-5493c5493e/sentinella9-3.jpg',
-                                                          description: 'Intervisto l\'allevatore Signor Miranda e sua madre, che mi raccontano delle conseguenze del petrolio sui loro animali.<br><<br> <iframe width="350" height="250" src="https://www.youtube.com/embed/rNs63kJrX6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+                                                          description: 'Intervisto l\'allevatore Signor Miranda e sua madre, che mi raccontano delle conseguenze del petrolio sui loro animali.<br><br> <iframe width="350" height="250" src="https://www.youtube.com/embed/rNs63kJrX6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                                                           location: {
                                                               center: [15.889972,40.308029],
                                                               zoom: 13,
