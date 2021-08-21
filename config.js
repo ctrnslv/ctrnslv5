@@ -101,9 +101,9 @@ var config = {
                                   id: 'bb-style-id',
                                   alignment: 'left',
                                   hidden: false,
-                                  title: 'Viggiano - Direttivo Eni Distretto Meridionale',
+                                  title: 'Viggiano - Direttivo Eni',
                               //image: ,
-                                  description: 'Intervisto l\'Ingegnere Lopomo, Responsabile del Distretto Meridionale Eni, insieme al responsabile HSE del sito.<br><br><<iframe width="350" height="250" src="https://www.youtube.com/embed/6A4dLjX6LuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
+                                  description: 'Intervisto l\'Ingegnere Lopomo, Responsabile del Distretto Meridionale Eni, insieme al Responsabile HSE del sito.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/6A4dLjX6LuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                                   location: {
                                       center: [15.89994, 40.33656],
                                       zoom: 14,
@@ -294,7 +294,7 @@ var config = {
                                                                           hidden: false,
                                                                           title: 'Corleto Perticara - Tempa Rossa',
                                                                           //image: ,
-                                                                          description: 'Ci avviciniamo al sito estrattivo di Tempa Rossa.<r><br><br> <iframe width="350" height="250" src="https://www.youtube.com/embed/6F1mWhUrbMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><p><a href="https://www.it.total.com/it/pagine/attivita/il-progetto-tempa-rossa ">Visita la pagina della Total - Tempa Rossa</a></p> ',
+                                                                          description: 'Ci avviciniamo al sito estrattivo di Tempa Rossa.<r><br><br> <iframe width="350" height="250" src="https://www.youtube.com/embed/6F1mWhUrbMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><p><a href="https://www.it.total.com/it/pagine/attivita/il-progetto-tempa-rossa ">Visita la pagina di Tempa Rossa</a></p> ',
                                                                           location: {
                                                                               center: [16.085372,40.409225],
                                                                               zoom: 13.5,
