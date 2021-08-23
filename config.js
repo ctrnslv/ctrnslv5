@@ -43,7 +43,7 @@ var config = {
                       alignment: 'right',
                       hidden: false,
                       title: 'Pisticci - Movimento Tutela Val Basento',
-                      image: 'https://inchiestasentinelle.webnode.it/_files/200000077-2bd632bd65/sentinella3-4.jpg',
+                      image: 'https://inchiestasentinelle.webnode.it/_files/200000077-2bd632bd65/sentinella3-1.jpg',
                       video: 'https://youtu.be/JxxuBJ2epl0',
                       description: 'Trovo Nico, insegnante di scuola e sentinella, che mi racconta delle battaglie del Movimento Tutela Val Basento per l\’ambiente lucano.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/z6QcCOgpu1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br><h3><a href="https://drive.google.com/drive/folders/1PBxVD-gW8TZVg92sXGhUyjNDGkCMh-fF"target="_blank">Esplora gli studi sull\'impatto ambientale del petrolio </a></h3><h3><a href="http://movimentovalbasento.altervista.org/"target="_blank">Visita la pagina del Movimento</a></h3>',
 
@@ -64,7 +64,7 @@ var config = {
                           alignment: 'left',
                           hidden: false,
                           title: 'Pisticci - Studio legale',
-                          image: 'https://inchiestasentinelle.webnode.it/_files/200000076-8cd838cd85/sentinella4-3.jpg',
+                          image: 'https://inchiestasentinelle.webnode.it/_files/200000076-8cd838cd85/sentinella4-7.jpg',
                           description: 'Intervisto l\'Avvocato Di Pisa, che difende le parti civili nel processo Petrolgate.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/rstAMN2-l5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><h3><a href="https://drive.google.com/drive/folders/1hBI-gmM4Up0r24OIa5GQ0jtuJUKfqHfS?usp=sharing"target="_blank">Accedi al materiale legale sul processo</a></h3>',
                           location: {
                               center: [16.55850, 40.39065],
@@ -216,7 +216,7 @@ var config = {
                                                           alignment: 'left',
                                                           hidden: false,
                                                           title: 'Grumento Nova - Località Campestrini',
-                                                          image: 'https://inchiestasentinelle.webnode.it/_files/200000074-5493c5493e/sentinella9-3.jpg',
+                                                          image: 'https://inchiestasentinelle.webnode.it/_files/200000074-5493c5493e/sentinella9-9.jpg',
                                                           description: 'Intervisto l\'allevatore Signor Miranda e sua madre, che mi raccontano delle conseguenze del petrolio sui loro animali.<br><br> <iframe width="350" height="250" src="https://www.youtube.com/embed/rNs63kJrX6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                                                           location: {
                                                               center: [15.889972,40.308029],
@@ -235,8 +235,8 @@ var config = {
                                                               alignment: 'right',
                                                               hidden: false,
                                                               title: 'Policoro - Studio legale',
-                                                              image: 'https://inchiestasentinelle.webnode.it/_files/200000085-a7919a791c/sentinella12-0.jpg',
-                                                              image1:'https://inchiestasentinelle.webnode.it/_files/200000079-6694566947/sentinella6-7.jpg',
+                                                              image: 'https://inchiestasentinelle.webnode.it/_files/200000085-a7919a791c/sentinella12-9.jpg',
+                                                              image1:'https://inchiestasentinelle.webnode.it/_files/200000079-6694566947/sentinella6-5.jpg',
                                                               description: 'Intervisto l\'Avvocato Bellizzi e il Dottor Farina, due professionisti sentinella che guidano i cittadini nel dimostrare gli impatti del petrolio.<br><br><iframe width="350" height="250" src="https://www.youtube.com/embed/xYiY8lFXHiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                                                               location: {
                                                                   center: [16.69560, 40.20562],
@@ -274,7 +274,7 @@ var config = {
                                                                       alignment: 'right',
                                                                       hidden: false,
                                                                       title: 'Pisticci Scalo - Chiesa',
-                                                                      image: 'https://inchiestasentinelle.webnode.it/_files/200000075-ecfe4ecfe6/sentinella2-1.jpg',
+                                                                      image: 'https://inchiestasentinelle.webnode.it/_files/200000075-ecfe4ecfe6/sentinella2-7.jpg',
                                                                       description: 'Mi accoglie un illuminato parroco sentinella che mi racconta dell\'impegno della sua comunità per l\'ambiente.<iframe width="350" height="250" src="https://www.youtube.com/embed/Fw168gfux0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>',
                                                                       location: {
                                                                           center: [16.548939,40.420474],
@@ -388,7 +388,7 @@ var config = {
                                                                                                   alignment: 'right',
                                                                                                   hidden: false,
                                                                                                   title: 'Potenza - Università',
-                                                                                                  image: 'https://inchiestasentinelle.webnode.it/_files/200000081-946ee946f0/sentinella7-6.jpg',
+                                                                                                  image: 'https://inchiestasentinelle.webnode.it/_files/200000081-946ee946f0/sentinella7-2.jpg',
                                                                                                   description: 'Incontro Luca Manes che mi racconta del lavoro della ONG Recommon a tutela delle comunità che fronteggiano multinazionali.<br><br><h3><a href="https://www.recommon.org/en/">Vai alla pagina di Recommon </a></h3><h3><a href="https://inganno.recommon.org/ "target="_blank">Vai all\'inchiesta di Recommon sulla Basilicata </a></h3>',
                                                                                                   location: {
                                                                                                       center: [15.805873,40.633602],
