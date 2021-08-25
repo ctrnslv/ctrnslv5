@@ -14,7 +14,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             //title: 'jnj',
-            description: '<audio controls> <source src="Audio per mappa.m4a" type="audio/mpeg"></audio><br>Scorri la mappa per incontrare i luoghi e le persone dell\'inchiesta.',
+            description: '<audio controls> <source src="Mappa tappe short.mp3" type="audio/mpeg"></audio><br>Scorri la mappa per incontrare i luoghi e le persone dell\'inchiesta.',
             location: {
                 center: [15.88998, 40.62668],
                 zoom:8.5,
